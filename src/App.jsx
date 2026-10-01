@@ -64,10 +64,13 @@ export default function App() {
     <div className="app">
       <header className="app__header">
         <div>
-          <h1 className="app__title">Student Registry dApp</h1>
+          <span className="brand">
+            <span className="brand__mark">EN</span>
+            Enroll
+          </span>
+          <h1 className="app__title">Student records, on-chain</h1>
           <p className="app__subtitle">
-            Register a student on-chain and read the record back, with wallet connect, a supported
-            chain list and a refreshable balance.
+            Enrol a student, store the record on-chain, and verify it from any wallet.
           </p>
         </div>
 

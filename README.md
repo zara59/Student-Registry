@@ -1,4 +1,6 @@
-# Student Registry dApp
+# Enroll
+
+Student records on-chain. React and Vite frontend for a Student Registry smart contract, built with `ethers` v6 and MetaMask.
 
 React + Vite frontend for a Student Registry smart contract, built with `ethers` v6 and MetaMask.
 
